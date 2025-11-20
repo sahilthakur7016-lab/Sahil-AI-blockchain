@@ -5,12 +5,12 @@ const Hero = () => {
     <section id="hero" className="hero">
       <div className="container">
         <h1>
-          A Secure & Transparent<br /> 
-          <span className="span-color">Blockchain Voting System</span>
+          The Future of Voting:<br />
+          <span className="span-color">Secure. Transparent. Blockchain-Powered.</span>
         </h1>
         <p>
-          Empowering elections with tamper-proof records, real-time verification, 
-          and decentralized trust — built for modern digital democracies.
+          Experience a next-generation voting platform designed to eliminate fraud, ensure
+          transparency, and build trust through decentralized blockchain technology.
         </p>
         <div className="hero-buttons">
           <a href="#cta" className="btn btn-primary">Get Started</a>
